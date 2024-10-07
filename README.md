@@ -7,4 +7,7 @@ This Java program implements a sorted stacked list that efficiently organizes a 
 
 **Program Instructions**
 1. After cloning all three classes, run the following command in your terminal:
-2. For javadoc,run the following command in your terminal
+   ''' javac Main.java
+   java Main.java '''
+3. For javadoc,run the following command in your terminal
+    ''' javadoc -d docs Main.java '''
